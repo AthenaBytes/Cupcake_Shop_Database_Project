@@ -1,2 +1,2 @@
 # Cupcake_Shop_Database_Project
-Relational database project for a cupcake shop, including ERD design, MySQL schema, and SQL queries for managing customers, products, sales, and payments.
+This project focuses on designing and managing a relational database for a cupcake shop. It includes an ERD, MySQL schema, and SQL queries to manage customers, products, sales, payments, and events. The project demonstrates database design best practices and real-world data management scenarios.
